@@ -59,9 +59,7 @@ Contributions to Cascade are welcome! If you'd like to contribute, please follow
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## About the Developer
 
-Cascade is developed by Rishav Bhardwaz, a passionate web developer dedicated to creating innovative solutions to real-world problems. Connect with Rishav on [LinkedIn](https://www.linkedin.com/in/rishavbhardwaz/) to learn more about his work.
 
 ## Acknowledgements
 
