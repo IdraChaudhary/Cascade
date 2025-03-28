@@ -1,6 +1,6 @@
 # Cascade - NGO Recognition Project
 
-Cascade is a web application designed to recognize NGOs in a specific area, such as Bhopal, and provide comprehensive information about them in one place. Developed by Rishav Bhardwaz, this project aims to streamline the process of discovering and accessing information about NGOs for users.
+Cascade is a web application designed to recognize NGOs in a specific area, such as Bhopal, and provide comprehensive information about them in one place. This project aims to streamline the process of discovering and accessing information about NGOs for users.
 
 ## Features
 
